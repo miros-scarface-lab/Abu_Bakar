@@ -1,0 +1,24 @@
+{
+  "name": "abu-bakar",
+  "version": "2.0.0",
+  "description": "Abu Bakar - Bangladeshi Boyfriend AI Companion Chat",
+  "private": true,
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "ai-boyfriend",
+    "abu-bakar",
+    "gemini",
+    "bangladesh",
+    "chat"
+  ],
+  "author": "Abu Bakar Project",
+  "license": "MIT"
+}

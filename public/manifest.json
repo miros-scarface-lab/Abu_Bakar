@@ -1,0 +1,18 @@
+{
+  "name": "Abu Bakar — Bangladeshi Sweetheart AI",
+  "short_name": "Abu Bakar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff1f2",
+  "theme_color": "#f43f5e",
+  "orientation": "portrait",
+  "description": "Your romantic, caring, and playful Bangladeshi AI boyfriend companion.",
+  "icons": [
+    {
+      "src": "/profile.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
